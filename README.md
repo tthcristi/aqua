@@ -9,6 +9,7 @@ Through the screen and one button you can adjust the sleep duration (5-180m), hu
 - Ultrasonic Piezoelectric Humidifier (Powered by 5V, can turn water into vapors!)
 - SHT45 humidity sensor (Can be replaced by any SHT sensor)
 - 2N2222A transistor (To control the piezo module)
+- 330Ω Resistor (For the transistor)
 - A simple button
 
 ## Diagram
